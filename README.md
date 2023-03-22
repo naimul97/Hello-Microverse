@@ -49,7 +49,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Hello Microverse Project] <a name="about-project"></a>
 
-**[Hello Microverse Project]** is a git hub repository without any complex coding set up with proper linter of  HTML and CSS which also includes new branch that is created in accordance with the GitHub flow rules in order to make code concise,correct and standardised.
+**[Hello Microverse Project]** is a git hub repository ,set up with proper linter of  HTML and CSS which also includes new branch that is created in accordance with the GitHub flow rules . It is the first poject of microverse 
 
 ## 🛠 Built With Visual Studio Code<a name="built-with"></a>
 
@@ -66,14 +66,14 @@ After you're finished please remove all the comments and instructions!
   <summary>Styles</summary>
  
 </details>
-
+ <summary>Easy to use</summary>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **[Error Free]**
-- **[Impresive UI]**
+- **[Easy to build]**
+- **[Best UI]**
 - **[User Friendly]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -92,7 +92,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-Developer can can use linter tool to check for errors, it provides suggestions for how to improve your code. By using a linter, you can identify and fix issues before they become larger problems.
+Developers can use the linter tool to check for mistakes and get advice on how to improve their code. Using a linter, you may identify and resolve bugs before they become major difficulties.
 
 To get a local copy up and running, follow these steps.
 
@@ -101,43 +101,9 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 1.Github account
-2.Vs Code/ Any Text Editor
+2.Vs Code
 3.Web Browser
-
-### Setup
-
-Clone this repository to your desired folder:
-
-
-Example commands:
-
-```sh
-  cd my-folder
-  git clone https://github.com/AceMannie/Hello-Microverse
-```
-
-### Usage
-
-To run the project, execute the following file:
-Index.html
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-
-Example command:
-
-```sh
-No tests required 
-```
+4. Stable internet
 
 
 ### Deployment
@@ -145,13 +111,7 @@ No tests required
 You can deploy this project using:
 github VS Code 
 
-<!--
-Example:
 
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -174,8 +134,8 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **Improving the outlook by implementing the responsive design**
-- [ ] **Adding the images and styling them using CSS**
+- [ ] **Betterment in the outlook**
+- [ ] **Adding the images **
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -203,8 +163,7 @@ Example:
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank Microverse for providing the resources and my coding partners for making this project a success.
-
+Thanks to Microverse and my coding parters
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -212,7 +171,7 @@ I would like to thank Microverse for providing the resources and my coding partn
 
 ## 📝 License <a name="license"></a>
 
-This project is copyright of [Emmanuel Chijioke]
+This project is copyright of [Naimul Hasan]
 
 
 
