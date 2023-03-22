@@ -84,7 +84,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://github.com/AceMannie/Hello-Microverse)
+- [Live Demo Link](https://github.com/naimul97/Hello-Microverse)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
